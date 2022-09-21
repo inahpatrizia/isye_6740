@@ -1,0 +1,6 @@
+HW 1: Clustering
+HW 2: Dimensionality Reduction
+HW 3: Density Estimation, Gaussian Mixture Model and Estimation-Maximization Algorithm
+HW 4: Optimization, Classification Naive Bayes, Logisitic Regression, SVM
+HW 5: Neural Networks, Feature Selection and Anomaly Detection
+HW 6: Boosting Algorithms and AdaBoost, Random Forest
